@@ -12,10 +12,10 @@ Let’s build something cool together! 🤝
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-manoj)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-manoj-2164b218a)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arjun.exxe)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=X&logoColor=white)](https://x.com/arjun)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/arjun.manoj)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=X&logoColor=white)](https://x.com/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/Arjun manoj)
 
 ---
 
